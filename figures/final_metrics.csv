@@ -1,0 +1,16 @@
+metric,value
+peak_population,2740.0
+peak_population_tick,178.0
+collapse_onset_tick,5.0
+final_extinction_tick,2885.0
+max_mean_withdrawal_ratio,1.0
+max_wd_tick,2844.0
+surviving_colonies,0.0
+extinct_colonies,256.0
+total_cells,256.0
+mean_behavioral_energy_final,0.0
+micro_peak_population,20.0
+micro_peak_tick,1.0
+micro_final_population,0.0
+macro_ticks_run,2886.0
+macro_seed,42.0
